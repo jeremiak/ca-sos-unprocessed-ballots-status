@@ -31,13 +31,15 @@ rows.forEach((n, i) => {
   const county = cells[0] as Element;
   const cumulativeTotalOfProcessedBallots = cells[1] as Element;
   const estimatedTotalBallotsRemaining = cells[9] as Element;
+  const ballotsLeftToCure = cells[12] as Element
 
   if (county.innerText.includes("STATEWIDE")) return
 
   const d = {
     County: county.innerText.trim(),
     'Cumulative Total of Processed Ballots': +cumulativeTotalOfProcessedBallots.innerText.replaceAll(',', ''),
-    'Estimated Total Ballots Remaining': +estimatedTotalBallotsRemaining.innerText.replaceAll(',', '')
+    'Estimated Total Ballots Remaining': +estimatedTotalBallotsRemaining.innerText.replaceAll(',', ''),
+    'Ballots Left to Cure': +ballotsLeftToCure.innerText.replaceAll(',', '')
   }
   data.push(d)
 })
