@@ -1,9 +1,9 @@
 County,Cumulative Total of Processed Ballots,Estimated Total Ballots Remaining
 Alameda,682819,0
 Alpine,749,48
-Amador,22759,0
+Amador,22762,0
 Butte,96071,0
-Calaveras,26874,19
+Calaveras,26885,0
 Colusa,7110,0
 Contra Costa,539147,0
 Del Norte,10676,0
@@ -11,18 +11,18 @@ El Dorado,113777,0
 Fresno,326610,600
 Glenn,10541,9
 Humboldt,65093,446
-Imperial,47333,6490
-Inyo,9087,9
+Imperial,53862,0
+Inyo,9096,0
 Kern,286538,495
-Kings,41972,0
+Kings,41998,0
 Lake,25675,1479
 Lassen,11165,353
-Los Angeles,3792036,0
-Madera,55246,0
+Los Angeles,3793106,0
+Madera,55329,0
 Marin,146707,0
 Mariposa,9613,0
 Mendocino,39834,0
-Merced,87095,0
+Merced,87473,0
 Modoc,4059,2
 Mono,6148,10
 Monterey,148893,0
@@ -32,17 +32,17 @@ Orange,1416752,11565
 Placer,238679,250
 Plumas,10221,0
 Riverside,957331,550
-Sacramento,659679,8624
+Sacramento,668402,0
 San Benito,27937,1
 San Bernardino,771002,450
 San Diego,1502146,0
 San Francisco,412090,0
-San Joaquin,262407,2311
+San Joaquin,267627,0
 San Luis Obispo,150106,3965
 San Mateo,337098,0
 Santa Barbara,187836,18
-Santa Clara,765175,1000
-Santa Cruz,134232,1720
+Santa Clara,765495,0
+Santa Cruz,135525,570
 Shasta,87928,2253
 Sierra,1780,0
 Siskiyou,21798,0
