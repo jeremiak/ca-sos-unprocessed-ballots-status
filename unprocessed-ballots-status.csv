@@ -1,59 +1,59 @@
 County,Cumulative Total of Processed Ballots,Estimated Total Ballots Remaining,Ballots Left to Cure
-Alameda,682819,0,4836
-Alpine,749,48,3
+Alameda,683644,0,0
+Alpine,749,0,0
 Amador,22762,0,11
-Butte,96071,0,1205
+Butte,96106,0,0
 Calaveras,26885,0,149
-Colusa,7110,0,135
-Contra Costa,539147,0,3000
+Colusa,7122,0,135
+Contra Costa,539219,0,2850
 Del Norte,10676,0,80
-El Dorado,113777,0,730
-Fresno,326610,600,4100
-Glenn,10541,9,80
-Humboldt,65093,446,393
-Imperial,53862,0,800
+El Dorado,114023,0,763
+Fresno,330932,0,0
+Glenn,10554,0,0
+Humboldt,65232,0,0
+Imperial,54566,0,800
 Inyo,9096,0,5
-Kern,286538,495,2230
+Kern,286666,0,0
 Kings,41998,0,485
-Lake,25675,1479,326
-Lassen,11165,353,41
-Los Angeles,3793106,0,13000
+Lake,27127,0,326
+Lassen,11496,0,0
+Los Angeles,3793106,0,11622
 Madera,55329,0,163
-Marin,146707,0,1469
+Marin,146859,0,1343
 Mariposa,9613,0,63
-Mendocino,39834,0,99
+Mendocino,39837,0,0
 Merced,87473,0,0
 Modoc,4059,2,66
-Mono,6148,10,50
-Monterey,148893,0,562
-Napa,66622,0,324
-Nevada,63145,73,224
-Orange,1416752,11565,11565
-Placer,238679,250,900
+Mono,6167,0,40
+Monterey,148916,0,548
+Napa,66634,0,0
+Nevada,63240,0,0
+Orange,1417397,0,0
+Placer,239402,0,783
 Plumas,10221,0,101
-Riverside,957331,550,8300
-Sacramento,668402,0,2945
-San Benito,27937,1,682
-San Bernardino,771002,450,8300
-San Diego,1502146,0,8000
-San Francisco,412090,0,550
+Riverside,959098,0,0
+Sacramento,668416,0,2946
+San Benito,28017,0,0
+San Bernardino,771834,0,0
+San Diego,1503018,0,0
+San Francisco,412231,0,1913
 San Joaquin,267627,0,0
-San Luis Obispo,150106,3965,828
-San Mateo,337098,0,1323
-Santa Barbara,187836,18,1534
+San Luis Obispo,153432,0,0
+San Mateo,337241,0,0
+Santa Barbara,187876,0,1534
 Santa Clara,765495,0,0
-Santa Cruz,135525,570,205
+Santa Cruz,136505,0,205
 Shasta,87928,2253,232
-Sierra,1780,0,6
-Siskiyou,21798,0,129
-Solano,192351,0,370
-Sonoma,255083,675,1510
-Stanislaus,199876,196,1945
-Sutter,39848,93,68
-Tehama,26621,189,486
-Trinity,5749,0,94
-Tulare,139740,0,981
-Tuolumne,29221,13,170
+Sierra,1780,0,0
+Siskiyou,21803,0,0
+Solano,192397,0,360
+Sonoma,255648,0,0
+Stanislaus,200183,0,0
+Sutter,39867,0,100
+Tehama,26867,0,0
+Trinity,5755,0,85
+Tulare,139860,0,981
+Tuolumne,29240,0,0
 Ventura,393524,167,3598
-Yolo,93982,631,1052
-Yuba,30199,2000,500
+Yolo,94509,0,0
+Yuba,30443,0,0
